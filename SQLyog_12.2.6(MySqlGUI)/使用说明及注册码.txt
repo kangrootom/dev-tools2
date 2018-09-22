@@ -1,0 +1,17 @@
+SQLyog-12.2.6-0.x64Trial.exe 是原版（未注册，需要激活）	
+
+SQLyog-12.2.6-0_51cto.exe 是注册版
+
+SQLyog 是一个简洁的图形化管理MYSQL数据库的工具，它能够在任何地点有效地管理你的数据库。中文注册版由过桥的米线不回头打包制作。
+
+PS：安装完桌面多了个IE图标，可在添加删除程序里卸载或直接删除注册版键值，[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\。也可以使用安全卫士的修复IE图标功能进行修复
+
+查看更新：http://shel_lee.download.csdn.net/
+
+序 列 号（Code）：8d8120df-a5c3-4989-8f47-5afc79c56e7c
+序 列 号（Code）：59adfdfe-bcb0-4762-8267-d7fccf16beda
+序 列 号（Code）：ec38d297-0543-4679-b098-4baadf91f983
+
+如需修改注册信息，可以进入SQLyog软件的帮助，点击更改注册详细信息。输入以上序列号，名字可自定义，确定即可修改。
+
+下载地址:http://pan.baidu.com/s/1kUN8GKn
